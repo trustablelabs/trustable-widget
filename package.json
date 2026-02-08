@@ -1,0 +1,30 @@
+{
+  "name": "trustable-widget",
+  "version": "1.0.0",
+  "description": "Embeddable AI Visibility Score widget. Display your Trustable Score on any website.",
+  "main": "widget.js",
+  "files": [
+    "widget.js",
+    "README.md"
+  ],
+  "keywords": [
+    "trustable",
+    "trustable-score",
+    "ai-visibility",
+    "widget",
+    "embed",
+    "badge",
+    "geo",
+    "generative-engine-optimization",
+    "chatgpt",
+    "claude",
+    "perplexity"
+  ],
+  "author": "Trustable Labs <hello@trustablelabs.com> (https://trustablelabs.com)",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/trustablelabs/trustable-widget"
+  },
+  "homepage": "https://trustablelabs.com"
+}
