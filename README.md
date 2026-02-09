@@ -79,9 +79,16 @@ widget.render();
 
 ## Resources
 
-- [Get Your Trustable Score](https://trustablelabs.com)
-- [What is GEO?](https://trustablelabs.com/geo)
-- [trustable-score npm package](https://www.npmjs.com/package/trustable-score)
+- [Trustable Website](https://trustablelabs.com)
+- [What is GEO?](https://pages.trustablelabs.com/geo/) - Complete GEO guide
+- [What is AEO?](https://pages.trustablelabs.com/aeo/) - Answer Engine Optimization
+- [GEO vs SEO Comparison](https://pages.trustablelabs.com/compare/geo-vs-seo/)
+- [Best AI Visibility Tools](https://pages.trustablelabs.com/compare/best-ai-visibility-tools/)
+- [All Tool Comparisons](https://pages.trustablelabs.com/compare/)
+
+### Related Packages
+- [trustable-score](https://github.com/trustablelabs/trustable-score) - NPM package for AI visibility scoring
+- [trustable-mcp-server](https://github.com/trustablelabs/trustable-mcp-server) - MCP server for AI agents
 
 ## About Trustable
 
